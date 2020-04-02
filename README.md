@@ -22,6 +22,8 @@ mysql> show databases;
 
 ```
 
+![](https://github.com/spicychicken9/mysql-test-1/blob/master/%E8%AF%BE%E8%A1%A8.png)
+
 ## 题目2：如何join两张表
 
 ```sql
