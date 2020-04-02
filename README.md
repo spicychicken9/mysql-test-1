@@ -4,8 +4,10 @@
 
 ## 题目1：建立一个mysql database, 包含以下两张表：
 
-```sqlmysql> show databases; 
-+--------------------+ 
+``sql
+
+mysq> show databases; 
++ -------------------- + 
 | Database | 
 +--------------------+ 
 | information_schema | 
