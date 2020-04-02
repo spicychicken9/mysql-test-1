@@ -19,7 +19,6 @@ mysql> show databases;
 6 rows in set (0.00 sec)
 
 ```
-
 ![](https://github.com/spicychicken9/mysql-test-1/blob/master/%E8%AF%BE%E8%A1%A8.png)
 
 ## 题目2：如何join两张表
