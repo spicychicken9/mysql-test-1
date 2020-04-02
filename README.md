@@ -4,8 +4,17 @@
 
 ## 题目1：建立一个mysql database, 包含以下两张表：
 
-```sql
-select * from some table;
+```sqlmysql> show databases; 
++--------------------+ 
+| Database | 
++--------------------+ 
+| information_schema | 
+| mysql | 
+| performance_schema | 
+| sys | 
++--------------------+ 
+4 rows in set (0.17 sec)
+
 ```
 
 
