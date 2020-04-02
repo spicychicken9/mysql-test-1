@@ -4,21 +4,23 @@
 
 ## 题目1：建立一个mysql database, 包含以下两张表：
 
-``sql
+```sql
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
 
-mysq> show databases; 
-+ -------------------- + 
-| Database | 
-+--------------------+ 
-| information_schema | 
-| mysql | 
-| performance_schema | 
-| sys | 
-+--------------------+ 
+| mysql              |
+
+| performance_schema |
+
+| sys                |
+
++--------------------+
 4 rows in set (0.17 sec)
 
 ```
-
 
 ## 题目2：如何join两张表
 
