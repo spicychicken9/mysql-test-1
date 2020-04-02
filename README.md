@@ -10,15 +10,13 @@ mysql> show databases;
 | Database           |
 +--------------------+
 | information_schema |
-
+| hw1                |
+| m1                 |
 | mysql              |
-
 | performance_schema |
-
 | sys                |
-
 +--------------------+
-4 rows in set (0.17 sec)
+6 rows in set (0.00 sec)
 
 ```
 
