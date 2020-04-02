@@ -16,12 +16,20 @@ mysql> show databases;
 | performance_schema |
 | sys                |
 +--------------------+
-6 rows in set (0.00 sec)
+6 rows in set (0.02 sec)
+
+mysql> use hw1
+Database changed
+mysql> create table bg1(id int);
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> create table bg2(name varchar(20));
+Query OK, 0 rows affected (0.03 sec)
 
 ```
 
 
-![](https://github.com/spicychicken9/mysql-test-1/blob/master/%E8%AF%BE%E8%A1%A8.png)
+![])
 
 ## 题目2：如何join两张表
 
