@@ -29,7 +29,7 @@ Query OK, 0 rows affected (0.03 sec)
 ```
 
 
-![])
+![](https://github.com/spicychicken9/mysql-test-1/blob/master/%E6%89%B9%E6%B3%A8%202020-04-02%20181823.png)
 
 ## 题目2：如何join两张表
 
